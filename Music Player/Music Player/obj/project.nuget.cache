@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4w2N7EwAWc=",
+  "success": true,
+  "projectFilePath": "D:\\GitHubWorkSpace\\WPF UI designer\\Music Player\\Music Player\\Music Player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LQ\\.nuget\\packages\\mahapps.metro.iconpacks.core\\6.2.1\\mahapps.metro.iconpacks.core.6.2.1.nupkg.sha512",
+    "C:\\Users\\LQ\\.nuget\\packages\\mahapps.metro.iconpacks.material\\6.2.1\\mahapps.metro.iconpacks.material.6.2.1.nupkg.sha512",
+    "C:\\Users\\LQ\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

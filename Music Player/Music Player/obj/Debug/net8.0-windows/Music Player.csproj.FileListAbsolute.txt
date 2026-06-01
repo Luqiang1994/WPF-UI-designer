@@ -1,0 +1,24 @@
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.exe
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.deps.json
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.runtimeconfig.json
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.dll
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.pdb
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.csproj.AssemblyReference.cache
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\MainWindow.baml
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\App.baml
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\App.g.cs
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player_MarkupCompile.cache
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.g.resources
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.AssemblyInfoInputs.cache
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.AssemblyInfo.cs
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.csproj.CoreCompileInputs.cache
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Pl.C255A016.Up2Date
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.dll
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\refint\Music Player.dll
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.pdb
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.genruntimeconfig.cache
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net8.0-windows\ref\Music Player.dll
