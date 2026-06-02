@@ -110,8 +110,8 @@
                         </Border>
 
                         <StackPanel Margin="30">
-                            <TextBlock Text="Dai2ly1 Singer" Foreground="White" FontSize="26" FontWeight="Bold"/>
-                            <TextBlock Text="Tay3lo21r Swift" Foreground="#c0e6da" FontSize="26" FontWeight="Bold"/>
+                            <TextBlock Text="Daily Singer" Foreground="White" FontSize="26" FontWeight="Bold"/>
+                            <TextBlock Text="Taylor Swift" Foreground="#c0e6da" FontSize="26" FontWeight="Bold"/>
 
                             <uc:SongItem Number="01" Title="Love Story" Time="3:30" />
                             <uc:SongItem Number="02" Title="You Need to Calm" Time="2:30" />
@@ -131,7 +131,52 @@
                 <StackPanel Margin="30 50 30 0">
                     <TextBlock Text="Popular" Style="{StaticResource titleText}" Margin="0 0 0 10" FontSize="28"/>
                     <!--Populars-->
+                    <uc:PopularSong Title="Love Story" Time="3:30" Image="/Images/p2.jpg"/>
+                    <uc:PopularSong Title="You Need to Calm" Time="2:30" Image="/Images/p3.jpg" IsActive="True"/>
+                    <uc:PopularSong Title="ME" Time="3:45" Image="/Images/p1.jpg"/>
+                    <uc:PopularSong Title="You Blong to Me" Time="3:30" Image="/Images/p4.jpg"/>
+
                     <TextBlock Text="Playlists" Style="{StaticResource titleText}" Margin="0 30 0 20" FontSize="24"/>
+                    
+                    <!--playlists-->
+                    <StackPanel Orientation="Horizontal">
+                        <uc:Playlist Title="Glory" Desc="Kutless" Image="/Images/m1.png"/>
+                        <uc:Playlist Title="Mitacle" Desc="Fiasder" Image="/Images/m2.png" Margin="4 0 0 0"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+            
+            <!--Player-->
+            <Border Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Background="#03bf69" CornerRadius="40 0 40 0" Margin="40 0 0 0">
+                <StackPanel Orientation="Horizontal">
+                    <Ellipse Width="60" Height="60" Margin="30 0 0 0">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="/Images/m2.png"/>
+                        </Ellipse.Fill>
+                    </Ellipse>
+
+                    <StackPanel VerticalAlignment="Center" Margin="20 0 30 0">
+                        <TextBlock Text="ME" Foreground="White" FontSize="22" FontWeight="Bold"/>
+                        <TextBlock Text="Taylor Swift" Foreground="#9ae5c3" FontSize="18" FontWeight="SemiBold"/>
+                    </StackPanel>
+
+                    <Button Style="{StaticResource playerButton}">
+                        <Icon:PackIconMaterial Kind="SkipPrevious" Style="{StaticResource playerButtonIcon}"/>
+                    </Button>
+
+                    <Button Style="{StaticResource playerButton}">
+                        <Icon:PackIconMaterial Kind="Pause" Style="{StaticResource playerButtonIcon}"/>
+                    </Button>
+
+                    <Button Style="{StaticResource playerButton}">
+                        <Icon:PackIconMaterial Kind="SkipNext" Style="{StaticResource playerButtonIcon}"/>
+                    </Button>
+
+                    <Slider Style="{DynamicResource SliderStyle1}" x:Name="slider" IsSelectionRangeEnabled="True" VerticalAlignment="Center" Value="5" Width="350" SelectionEnd="{Binding ElementName=slider,Path=Value}"/>
+
+                    <Button Style="{StaticResource playerButton}">
+                        <Icon:PackIconMaterial Kind="VolumeMedium" Style="{StaticResource playerButtonIcon}"/>
+                    </Button>
                 </StackPanel>
             </Border>
         </Grid>

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Music Player\Music Player\obj\Debug\net7.0-windows\
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\obj\Debug\net7.0-windows\
 Music_Player
 none
 false
-TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Music Player\Music Player\App.xaml
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\GitHubWorkSpace\WPF UI designer\Music Player\Music Player\App.xaml
 3-1159305204
 
 81204367554
-200214816868
+2001943667798
 MainWindow.xaml;UserControls\PopularSong.xaml;UserControls\SongItem.xaml;
 
 True
