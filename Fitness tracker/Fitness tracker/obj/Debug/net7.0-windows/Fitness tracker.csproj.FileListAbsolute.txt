@@ -1,0 +1,26 @@
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\bin\Debug\net7.0-windows\Fitness tracker.exe
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\bin\Debug\net7.0-windows\Fitness tracker.deps.json
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\bin\Debug\net7.0-windows\Fitness tracker.runtimeconfig.json
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\bin\Debug\net7.0-windows\Fitness tracker.dll
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\bin\Debug\net7.0-windows\Fitness tracker.pdb
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\bin\Debug\net7.0-windows\LiveCharts.dll
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\bin\Debug\net7.0-windows\LiveCharts.Wpf.dll
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.csproj.AssemblyReference.cache
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\MainWindow.baml
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\App.g.cs
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker_MarkupCompile.cache
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.g.resources
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.AssemblyInfoInputs.cache
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.AssemblyInfo.cs
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.csproj.CoreCompileInputs.cache
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.csproj.CopyComplete
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.dll
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\refint\Fitness tracker.dll
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.pdb
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\Fitness tracker.genruntimeconfig.cache
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\ref\Fitness tracker.dll
+D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\App.baml
