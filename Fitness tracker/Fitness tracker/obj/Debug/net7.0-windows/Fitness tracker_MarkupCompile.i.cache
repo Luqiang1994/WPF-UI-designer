@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net7.0-windows\
 Fitness_tracker
 none
 false
-TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-D:\GitHub_Projects\WPF UI designer\WPF-UI-designer\Fitness tracker\Fitness tracker\App.xaml
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\App.xaml
 11407045341
 
 5-925286878
-202-48411574
+202-1174735184
 MainWindow.xaml;
 
 False

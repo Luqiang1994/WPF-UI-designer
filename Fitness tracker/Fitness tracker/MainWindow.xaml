@@ -5,6 +5,11 @@
         xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
         Height="760" Width="1280" Background="Transparent" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" 
         AllowsTransparency="True" WindowStyle="None">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVis"/>
+    </Window.Resources>
+    
     <Border Background="#cfd5e5" BorderBrush="#ebedf3" BorderThickness="2" CornerRadius="40"
             Padding="20" MouseDown="Border_MouseDown">
         <Border CornerRadius="40">
@@ -55,7 +60,122 @@
                     </Grid>
                 </Border>
                 <!--main section-->
-                
+                <Grid Grid.Column="1" Margin="5 20 25 20">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    
+                    <!--title section-->
+                    <StackPanel Margin="7 10 0 25">
+                        <TextBlock Text="Primary" Foreground="#797295" FontSize="13"/>
+                        <TextBlock Text="Dashboard" Style="{StaticResource titleText}"/>
+                    </StackPanel>
+                    
+                    <!--Search section-->
+                    <Grid Grid.Column="2" VerticalAlignment="Center" Margin="0 10 0 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+                        
+                        <!--search textbox-->
+                        <Grid>
+                            <TextBlock Margin="40 0 0 0" VerticalAlignment="Center" Foreground="#594f7f" IsHitTestVisible="False"
+                                       Panel.ZIndex="1" Text="Search..." Visibility="{Binding ElementName=txtSearch,Path=Text.IsEmpty,Converter={StaticResource BoolToVis}}"/>
+
+                            <TextBox x:Name="txtSearch" Style="{StaticResource searchTextBox}"/>
+                            <Icon:PackIconMaterial Kind="Magnify" Width="14" Height="14" VerticalAlignment="Center" HorizontalAlignment="Left" 
+                                                   Margin="15 0 0 0" Foreground="#594f7f"/>
+                        </Grid>
+                        
+                        <!--user image-->
+                        <Ellipse Width="45" Height="45" Margin="15 0 7 0" Grid.Column="1">
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="/Images/p6.jpg"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                    </Grid>
+                    
+                    <!--main middle chart section-->
+                    <Border Grid.Row="1" Grid.ColumnSpan="2" CornerRadius="30" Margin="0 0 20 50">
+                        <Border.Background>
+                            <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                                <GradientStop Color="#6a5dae" Offset="0"/>
+                                <GradientStop Color="#54479c" Offset="1.2"/>
+                            </LinearGradientBrush>
+                        </Border.Background>
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="auto"/>
+                            </Grid.RowDefinitions>
+
+                            <Border Background="#6e60b5"  BorderThickness="2" BorderBrush="#8276c0" CornerRadius="30" Margin="0 0 0 -10"/>
+                            
+                            <!--titles-->
+                            <TextBlock Text="OverView" Foreground="#f0eff6" FontSize="18" FontWeight="SemiBold" Margin="35 25 0 0"/>
+                            <TextBlock Text="Monthly" Foreground="#f0eff6" FontSize="6" FontWeight="SemiBold" Margin="0 27 35 0" HorizontalAlignment="Right"/>
+                        
+                        
+                            <!--Main Chart-->
+                            <lvc:CartesianChart LegendLocation="None" Margin="10">
+                                <lvc:CartesianChart.ToolTip>
+                                    <lvc:DefaultTooltip Background="#5a5080" Foreground="#f4f3f6" BulletSize="0"/>
+                                </lvc:CartesianChart.ToolTip>
+
+                                <lvc:CartesianChart.AxisX>
+                                    <lvc:Axis Foreground="#a79fd1" FontSize="14" ShowLabels="True" Labels="Jan, Feb,Mar,Apr,May,Jun,Jul,Aug, Sep,Oct,Nov,Dec">
+                                        <lvc:Axis.Separator>
+                                            <lvc:Separator StrokeThickness="0" Step="1"/>
+                                        </lvc:Axis.Separator>
+                                    </lvc:Axis>
+                                </lvc:CartesianChart.AxisX>
+
+                                <lvc:CartesianChart.AxisY>
+                                    <lvc:Axis ShowLabels="False" MinValue="0" MaxValue="170">
+                                        <lvc:Axis.Separator>
+                                            <lvc:Separator StrokeThickness="0"/>
+                                        </lvc:Axis.Separator>
+                                    </lvc:Axis>
+                                </lvc:CartesianChart.AxisY>
+
+                                <lvc:CartesianChart.Series>
+                                    <lvc:LineSeries Fill="#7164b2" StrokeThickness="4" PointGeometrySize="0" Values="10,15,100,10,100,10,50,30,110,20,70,10">
+                                        <lvc:LineSeries.Stroke>
+                                            <LinearGradientBrush>
+                                                <GradientStop Color="Transparent" Offset="0"/>
+                                                <GradientStop Color="#f782ab" Offset="0.23"/>
+                                                <GradientStop Color="Transparent" Offset="2.5"/>
+                                            </LinearGradientBrush>
+                                        </lvc:LineSeries.Stroke>
+                                    </lvc:LineSeries>
+                                </lvc:CartesianChart.Series>
+                                
+                            </lvc:CartesianChart>
+
+
+                            <Grid Grid.Row="1" Margin="10 20 10 15">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                
+                                <!--text info cards-->
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Grid>
                 <!--right section-->
                 
             </Grid>
