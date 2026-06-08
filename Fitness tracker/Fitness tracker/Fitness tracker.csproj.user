@@ -7,7 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="UserControls\InfoCard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="UserControls\TextInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserCard.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\App.xaml
-11407045341
+4-1593449731
 
-3-1233169557
+6750108129
 202112678269
-MainWindow.xaml;
+MainWindow.xaml;UserControls\InfoCard.xaml;UserControls\TextInfo.xaml;UserControls\UserCard.xaml;
 
 False
 

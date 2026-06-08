@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|d:\\githubworkspace\\wpf ui designer\\fitness tracker\\fitness tracker\\usercontrols\\textinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|solutionrelative:fitness tracker\\usercontrols\\textinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|d:\\githubworkspace\\wpf ui designer\\fitness tracker\\fitness tracker\\usercontrols\\textinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|solutionrelative:fitness tracker\\usercontrols\\textinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|d:\\githubworkspace\\wpf ui designer\\fitness tracker\\fitness tracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|solutionrelative:fitness tracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|d:\\githubworkspace\\wpf ui designer\\fitness tracker\\fitness tracker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|solutionrelative:fitness tracker\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|d:\\githubworkspace\\wpf ui designer\\fitness tracker\\fitness tracker\\usercontrols\\usercard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|solutionrelative:fitness tracker\\usercontrols\\usercard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|d:\\githubworkspace\\wpf ui designer\\fitness tracker\\fitness tracker\\usercontrols\\usercard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|solutionrelative:fitness tracker\\usercontrols\\usercard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|d:\\githubworkspace\\wpf ui designer\\fitness tracker\\fitness tracker\\usercontrols\\infocard.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|solutionrelative:fitness tracker\\usercontrols\\infocard.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|d:\\githubworkspace\\wpf ui designer\\fitness tracker\\fitness tracker\\usercontrols\\infocard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|solutionrelative:fitness tracker\\usercontrols\\infocard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F33AEE3-21EC-49EF-AA4C-F8B27F08BFE5}|Fitness tracker\\Fitness tracker.csproj|d:\\githubworkspace\\wpf ui designer\\fitness tracker\\fitness tracker\\fitness tracker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -30,60 +38,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TextInfo.xaml.cs",
-              "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\TextInfo.xaml.cs",
-              "RelativeDocumentMoniker": "Fitness tracker\\UserControls\\TextInfo.xaml.cs",
-              "ToolTip": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\TextInfo.xaml.cs",
-              "RelativeToolTip": "Fitness tracker\\UserControls\\TextInfo.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserCard.xaml.cs",
+              "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\UserCard.xaml.cs",
+              "RelativeDocumentMoniker": "Fitness tracker\\UserControls\\UserCard.xaml.cs",
+              "ToolTip": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\UserCard.xaml.cs",
+              "RelativeToolTip": "Fitness tracker\\UserControls\\UserCard.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA0wAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T05:02:58.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TextInfo.xaml",
-              "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\TextInfo.xaml",
-              "RelativeDocumentMoniker": "Fitness tracker\\UserControls\\TextInfo.xaml",
-              "ToolTip": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\TextInfo.xaml",
-              "RelativeToolTip": "Fitness tracker\\UserControls\\TextInfo.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-03T05:02:50.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T04:51:41.475Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Fitness tracker\\MainWindow.xaml",
-              "ToolTip": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\MainWindow.xaml",
-              "RelativeToolTip": "Fitness tracker\\MainWindow.xaml",
+              "Title": "UserCard.xaml",
+              "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\UserCard.xaml",
+              "RelativeDocumentMoniker": "Fitness tracker\\UserControls\\UserCard.xaml",
+              "ToolTip": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\UserCard.xaml",
+              "RelativeToolTip": "Fitness tracker\\UserControls\\UserCard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-03T04:07:38.825Z",
+              "WhenOpened": "2026-06-05T04:51:01.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "InfoCard.xaml.cs",
+              "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\InfoCard.xaml.cs",
+              "RelativeDocumentMoniker": "Fitness tracker\\UserControls\\InfoCard.xaml.cs",
+              "ToolTip": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\InfoCard.xaml.cs",
+              "RelativeToolTip": "Fitness tracker\\UserControls\\InfoCard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:14:58.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoCard.xaml",
+              "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\InfoCard.xaml",
+              "RelativeDocumentMoniker": "Fitness tracker\\UserControls\\InfoCard.xaml",
+              "ToolTip": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\UserControls\\InfoCard.xaml",
+              "RelativeToolTip": "Fitness tracker\\UserControls\\InfoCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-05T04:14:43.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Fitness tracker",
               "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\Fitness tracker.csproj",
               "RelativeDocumentMoniker": "Fitness tracker\\Fitness tracker.csproj",
               "ToolTip": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\Fitness tracker.csproj",
               "RelativeToolTip": "Fitness tracker\\Fitness tracker.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-03T04:07:14.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T04:07:14.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\App.xaml",
               "RelativeDocumentMoniker": "Fitness tracker\\App.xaml",
@@ -91,6 +109,18 @@
               "RelativeToolTip": "Fitness tracker\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-03T04:04:37.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Fitness tracker\\MainWindow.xaml",
+              "ToolTip": "D:\\GitHubWorkSpace\\WPF UI designer\\Fitness tracker\\Fitness tracker\\MainWindow.xaml",
+              "RelativeToolTip": "Fitness tracker\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-03T04:07:38.825Z",
               "EditorCaption": ""
             }
           ]

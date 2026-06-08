@@ -25,3 +25,11 @@ D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net
 D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\Fitness tracker.pdb
 D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\Fitness tracker.genruntimeconfig.cache
 D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\ref\Fitness tracker.dll
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\UserControls\TextInfo.baml
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\UserControls\TextInfo.g.cs
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\Fitness tracker_MarkupCompile.lref
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\UserControls\InfoCard.baml
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\UserControls\InfoCard.g.cs
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\UserControls\UserCard.baml
+D:\GitHubWorkSpace\WPF UI designer\Fitness tracker\Fitness tracker\obj\Debug\net8.0-windows7.0\UserControls\UserCard.g.cs
